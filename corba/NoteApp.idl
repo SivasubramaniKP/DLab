@@ -1,0 +1,16 @@
+module NoteApp {
+    struct Note {
+        long id;
+        string title;
+        string content;
+        boolean archived;
+    };
+    
+    interface NoteService {
+        long createNote(in string title, in string content);
+        string getNote(in long id);
+        string listNotes();
+        boolean updateNote(in long id, in string content);
+        boolean deleteNote(in long id);
+    };
+};

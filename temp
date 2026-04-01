@@ -1,0 +1,18 @@
+P0 requesting CS at clock: 0
+P1 requesting CS at clock: 0
+P2 requesting CS at clock: 0
+P0 ENTERED CS at clock: 1
+P0 EXITING CS
+P1 ENTERED CS at clock: 2
+P1 EXITING CS
+P2 ENTERED CS at clock: 3
+P2 EXITING CS
+P0 requesting CS at clock: 4
+P1 requesting CS at clock: 4
+P2 requesting CS at clock: 4
+P0 ENTERED CS at clock: 5
+P0 EXITING CS
+P1 ENTERED CS at clock: 6
+P1 EXITING CS
+P2 ENTERED CS at clock: 7
+P2 EXITING CS
